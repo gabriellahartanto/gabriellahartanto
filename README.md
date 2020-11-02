@@ -1,10 +1,9 @@
 ### Hi, brie here! 👋
-[🧇](https://fancy-todo-waffles.web.app) waffles
-[🍙](https://kanban-black-sesame.web.app)
-
-[🍭](https://ecommerce-cms-blueberry.web.app) 
-[🍵](https://ecommerce-matcha.web.app) 
-[🥧](https://article-finder-pie.web.app)
+[🧇](https://fancy-todo-waffles.web.app)  waffles<br>
+[🍙](https://kanban-black-sesame.web.app) black sesame<br>
+[🥨](https://ecommerce-cms-blueberry.web.app) blueberry<br>
+[🍵](https://ecommerce-matcha.web.app) matcha<br>
+[🥧](https://article-finder-pie.web.app)  pie<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellahartanto&hide=html)
 <!--
