@@ -1,5 +1,5 @@
 ### Hi, brie here! 👋
-[🧇](https://fancy-todo-waffles.web.app)
+[🧇](https://fancy-todo-waffles.web.app) waffles
 [🍙](https://kanban-black-sesame.web.app)
 
 [🍭](https://ecommerce-cms-blueberry.web.app) 
