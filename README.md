@@ -1,5 +1,5 @@
 ### Hi, brie here! 👋
-[🧇](https://fancy-todo-waffles.web.app) waffles | [🍙](https://kanban-black-sesame.web.app) black sesame | [🥨](https://ecommerce-cms-blueberry.web.app) blueberry | [🍵](https://ecommerce-matcha.web.app) matcha | [🥧](https://article-finder-pie.web.app) pie
+`[🧇](https://fancy-todo-waffles.web.app) waffles` | `[🍙](https://kanban-black-sesame.web.app) black sesame` | [🥨](https://ecommerce-cms-blueberry.web.app) blueberry | [🍵](https://ecommerce-matcha.web.app) matcha | [🥧](https://article-finder-pie.web.app) pie
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellahartanto&hide=html)
 <!--
