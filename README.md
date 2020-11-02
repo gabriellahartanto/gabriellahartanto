@@ -1,6 +1,6 @@
 ### Hello, brie here! 👋
 Here's a list of my favorite foods 👀 ✨<br>
-[waffles](https://fancy-todo-waffles.web.app) | [black sesame](https://kanban-black-sesame.web.app) | [blueberry](https://ecommerce-cms-blueberry.web.app) | [matcha](https://ecommerce-matcha.web.app) | [pie](https://article-finder-pie.web.app)
+[waffles](https://fancy-todo-waffles.web.app) | [black sesame](https://kanban-black-sesame.web.app) | [blueberry](https://ecommerce-cms-blueberry.web.app) | [matcha](https://ecommerce-matcha.web.app) | [pie](https://article-finder-pie.web.app/home) | [popcorn](http://movies-series-popcorn.s3-website-ap-southeast-1.amazonaws.com/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellahartanto&hide=html)
 <!--
