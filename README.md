@@ -1,5 +1,5 @@
 ### Hello, Brie here! 👋 
-Just that food-lover girl who finds comfort through coding 🌝 <br>
+Just that food-lover girl who finds comfort through code 🌝 <br>
 #### Here's a list of my favorite foods 👀 ✨<br>
 [waffles](https://fancy-todo-waffles.web.app) | [black sesame](https://kanban-black-sesame.web.app) | [blueberry](https://ecommerce-cms-blueberry.web.app) | [matcha](https://ecommerce-matcha.web.app) | [pie](https://article-finder-pie.web.app/home) | [popcorn](http://movies-series-popcorn.s3-website-ap-southeast-1.amazonaws.com/) | [cookie](https://expo.io/@gabriellahartanto/projects/Sudoku)
 <!--![gabriellahartanto's github stats](https://github-readme-stats.vercel.app/api?username=gabriellahartanto&show_icons=true&count_private=true&line_height=40)
